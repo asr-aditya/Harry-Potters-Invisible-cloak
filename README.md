@@ -10,3 +10,8 @@ Tired of scratching your head through hectic reasearch papers? Common lets make 
 ```
 pip install -r requirements.txt
 ```
+- Run code:
+```
+python src.py
+```
+Stay away from frame untill video window pops up for the background image to be created
